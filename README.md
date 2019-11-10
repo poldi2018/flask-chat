@@ -1,0 +1,1 @@
+# This is a creation of a chat application, done with Flask. Data is being taken from a URL and stored in a list.
