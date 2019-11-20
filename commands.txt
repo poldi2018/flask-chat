@@ -1,0 +1,3 @@
+messages.append("({}) {}: {}".format(now, username, message))
+"<br>".join(messages)
+"<h1>Welcome, {0}</h1>{1} ".format(username, messages)
